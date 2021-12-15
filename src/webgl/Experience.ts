@@ -9,7 +9,7 @@ import Renderer from './Renderer';
 import World from './world/World';
 import Sources from './world/sources';
 import Loaders from '../utils/Loaders';
-import Debug from '../utils/Debug/Debug';
+import Debug from '../utils/debug/Debug';
 
 declare global {
   interface Window {

@@ -1,7 +1,7 @@
 import { GUI } from 'dat.gui';
 import { BoxGeometry, Mesh, MeshNormalMaterial, Scene } from 'three';
 import Experience from '../../Experience';
-import Debug from '../../../utils/Debug/Debug';
+import Debug from '../../../utils/debug/Debug';
 // import Loaders from '../../utils/Loaders';
 
 export default class Cube {
