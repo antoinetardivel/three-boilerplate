@@ -1,6 +1,18 @@
-# TypeScript + Sass starter using Vite
+# Three boilerplate 🍲
 
-Just a simple starter using Vite.
+Template to bootstrap a three.js app with vitejs and typescript.
+
+```
+
+          ____        _ __                __      __
+         / __ )____  (_) /__  _________  / /___ _/ /____
+        / __  / __ \/ / / _ \/ ___/ __ \/ / __ `/ __/ _ \
+       / /_/ / /_/ / / /  __/ /  / /_/ / / /_/ / /_/  __/
+      /_____/\____/_/_/\___/_/  / .___/_/\__,_/\__/\___/
+                               /_/
+
+
+```
 
 ## Setup
 
