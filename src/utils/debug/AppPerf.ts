@@ -1,6 +1,6 @@
 import Stats from 'three/examples/jsm/libs/stats.module';
 
-export default class AppPref {
+export default class AppPerf {
   private appStats = Stats();
   private active: boolean = true;
   constructor() {
